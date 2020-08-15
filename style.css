@@ -60,7 +60,9 @@
 		
 	body { font-size: 16px; font-weight: normal; line-height: 28px;}
 	
-	/*----*****---- << 1.2. Fonts >> ----*****----*/
+	html{
+		cursor: url('./images/Asset.png'), auto;
+	  }
 	
 	body, p, input, textarea, .mailchimp-form p input, input[type="submit"], input[type="button"], .about-details p, .breadcrumb h2 span, .dt-sc-service-content p, .shop-dropdown ul li span, .shop-dropdown span span, 	.project-details ul.client-details li span, .project-details ul.client-details li p { font-family: 'PT Sans Narrow', sans-serif;}
 	
