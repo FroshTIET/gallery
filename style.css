@@ -85,6 +85,15 @@
 	h4{ font-size:20px; }
 	h5{ font-size:18px; }
 	h6{ font-size:16px; margin-bottom:20px; }
+	.navbar-brand img{
+		width: 150px;
+	  }
+	  nav{
+		background: none;
+		position: absolute;
+		z-index: 10;
+	  }
+	  
 	
 	/*----*****---- << 1.4. Text Elements >> ----*****----*/
 	
